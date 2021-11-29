@@ -1,8 +1,11 @@
 {
-  "name": "npx-anish",
+  "name": "anish",
   "version": "1.0.0",
   "description": "",
   "main": "card.js",
+  "bin": {
+    "anish": "./card.js"
+  },
   "scripts": {
     "dev": "nodemon card.js"
   },
