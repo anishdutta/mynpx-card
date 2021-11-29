@@ -1,9 +1,9 @@
 {
   "name": "anish",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "card.js",
-  "bin":"./card.js",
+  "bin": "./card.js",
   "scripts": {
     "dev": "nodemon card.js"
   },
